@@ -1,0 +1,27 @@
+_repo: History-of-the-Kentucky-Derby-1875-1921_32554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Connor, John Lawrence
+    alias: O'Connor, John L. (John Lawrence)
+    birthdate: 1875
+    gutenberg_agent_id: '35911'
+    url: http://www.gutenberg.org/2009/agents/35911
+description: ''
+gutenberg_issued: '2010-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky Derby'
+- !lcc 'SF'
+- !lcsh 'Horse racing -- Kentucky'
+title: History of the Kentucky Derby, 1875-1921
+url: http://www.gutenberg.org/ebooks/32554
